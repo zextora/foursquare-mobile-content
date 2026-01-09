@@ -1,9 +1,24 @@
-[
-  {
-    "id": "alone-296348",
-    "title": "Alone",
-    "artist": "Inconnu",
-    "stream_url": "https://pub-c7ba65597fe14c9bb3ed4e22423a386d.r2.dev/alone-296348.mp3",
-    "duration": 0
-  }
-]
+{
+  "version": 2,
+  "updated_at": "2026-01-09",
+  "tracks": [
+    {
+      "id": "alone-296348",
+      "title": "Alone",
+      "artist": "Inconnu",
+      "stream_url": "https://pub-c7ba65597fe14c9bb3ed4e22423a386d.r2.dev/alone-296348.mp3",
+      "duration": 0,
+      "cover_url": "https://pub-c7ba65597fe14c9bb3ed4e22423a386d.r2.dev/covers/alone.jpg",
+      "lyrics_url": "https://foursquare-mobile-content.pages.dev/music/lyrics/alone.txt",
+      "tags": ["worship"],
+      "featured": true
+    }
+  ],
+  "playlists": [
+    {
+      "id": "featured",
+      "title": "Recommandations",
+      "track_ids": ["alone-296348"]
+    }
+  ]
+}
